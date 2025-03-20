@@ -1,17 +1,17 @@
 # Renewable-Energy-Monitoring-Analysis
 Renewable Energy Monitoring &amp; Analysis using Power BI
 
-Objective of Renewable Energy Monitoring & Analysis:
+## Objective of Renewable Energy Monitoring & Analysis:
 
 To track, analyze, and optimize renewable energy generation and capacity across various technologies and regions. It ensures efficient resource utilization, identifies trends, and supports data-driven decision-making for sustainability. The goal is to enhance energy transition efforts, reduce carbon footprints, and promote clean energy adoption worldwide.
 
 
 
-Here’s a step-by-step summary of my process in a structured way:
+## Here’s a step-by-step summary of my process in a structured way:
 
 
 
-Step 1: Data Collection & Loading
+### Step 1: Data Collection & Loading
 
 🔹 Obtained the renewable energy dataset from the International Monetary Fund.
 
@@ -19,7 +19,7 @@ Step 1: Data Collection & Loading
 
 
 
-Step 2: Data Cleaning & Transformation
+### Step 2: Data Cleaning & Transformation
 
 ✅ Corrected inconsistencies in country names, energy types, and technology classifications.
 
@@ -35,7 +35,7 @@ This transformation made the dataset more dynamic and insightful for energy anal
 
 
 
-Step 3: DAX Calculations
+### Step 3: DAX Calculations
 
 🔢 Applied DAX functions to compute key metrics, such as:
 
@@ -51,9 +51,9 @@ Renewable production capacity to total capacity ratio
 
 
 
-Step 4: Visualization
+## Step 4: Visualization
 
-📊 Created interactive dashboards showcasing:
+### 📊 Created interactive dashboards showcasing:
 
  🔹 Generation by Energy Type – A clear breakdown of Renewable vs. Non-Renewable energy generation.
 
@@ -67,11 +67,11 @@ This structured approach helped in deriving meaningful insights for renewable en
 
 
 
-Here’s a step-by-step breakdown of key insights from the dashboard: 
+## Here’s a step-by-step breakdown of key insights from the dashboard: 
 
 
 
-🔹 1️⃣ Generation by Energy Type (Renewable vs. Non-Renewable)
+### 🔹 1️⃣ Generation by Energy Type (Renewable vs. Non-Renewable)
 
  📊 Over the past 22 years:
 
