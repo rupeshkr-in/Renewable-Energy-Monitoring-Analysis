@@ -82,7 +82,7 @@ This structured approach helped in deriving meaningful insights for renewable en
 
  💡 While both have expanded, the reliance on fossil fuels remains a challenge for sustainability.
 
-🔹 2️⃣ Renewable to Total Energy Ratio
+### 🔹 2️⃣ Renewable to Total Energy Ratio
 
  🌱 How much of our energy is renewable in 2022?
 
@@ -92,7 +92,7 @@ This structured approach helped in deriving meaningful insights for renewable en
 
  💡 This gap highlights the need for efficiency improvements in renewable energy production.
 
-🔹 3️⃣ Renewable Generation by Technology (Wind, Solar, Hydropower, Bioenergy)
+### 🔹 3️⃣ Renewable Generation by Technology (Wind, Solar, Hydropower, Bioenergy)
 
  ☀️🌊🌬️ Breaking down renewable sources:
 
@@ -102,7 +102,7 @@ This structured approach helped in deriving meaningful insights for renewable en
 
  💡 Diversifying technology adoption is key to a balanced and resilient energy future.
 
-🔹 4️⃣ Renewable Capacity Growth by Technology Over the Years
+### 🔹 4️⃣ Renewable Capacity Growth by Technology Over the Years
 
  📈 Over time:
 
