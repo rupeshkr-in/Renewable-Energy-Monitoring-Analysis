@@ -52,7 +52,7 @@ Renewable production capacity to total capacity ratio
 
 
 ## Step 4: Visualization
-![Renewable energy dashboard Image](https://github.com/rupeshkr-in/Renewable-Energy-Monitoring-Analysis/blob/main/renewable%20energy%20monitoring%20analysis.pdf)
+![Renewable energy monitoring analysis Image](https://github.com/rupeshkr-in/Renewable-Energy-Monitoring-Analysis/blob/main/Renewable%20enery%20monitoring-analysis.jpg)
 
 ### 📊 Created interactive dashboards showcasing:
 
